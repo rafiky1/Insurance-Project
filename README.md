@@ -3,7 +3,7 @@
 Youssef Rafik
 
 ## Overview
-This project investigates the main factors that influence **medical insurance charges** using statistical and visual analysis. We focus on how **age, BMI, region, and smoking status** relate to charges, and we surface patterns through an interactive Streamlit interface. :contentReference[oaicite:2]{index=2}
+This project investigates the main factors that influence **medical insurance charges** using statistical and visual analysis. We focus on how **age, BMI, region, and smoking status** relate to charges, and we surface patterns through an interactive Streamlit interface.
 
 ## Dataset
 Source: Kaggle (insurance dataset)
@@ -14,19 +14,19 @@ Columns used:
 - `children`
 - `smoker`
 - `region`
-- `charges` :contentReference[oaicite:4]{index=4}
+- `charges`
 
 ## Streamlit App
-Live app: https://insurance-hxycnaepkrrbntxkpgx4l2.streamlit.app/ :contentReference[oaicite:5]{index=5}
+Live app: https://insurance-hxycnaepkrrbntxkpgx4l2.streamlit.app/
 
 ## Interactive Filters (App Interface)
 The app supports filters to explore specific subgroups:
 - Region
 - Smoker status
 - BMI category
-- Number of children :contentReference[oaicite:6]{index=6}
+- Number of children 
 
-These filters help reveal trends that may look different across populations. :contentReference[oaicite:7]{index=7}
+These filters help reveal trends that may look different across populations. 
 
 ## Visual Analyses Included
 - **Demographics overview**: smoker vs. non-smoker distribution :contentReference[oaicite:8]{index=8}  
