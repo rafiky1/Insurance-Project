@@ -6,7 +6,7 @@ Youssef Rafik
 This project investigates the main factors that influence **medical insurance charges** using statistical and visual analysis. We focus on how **age, BMI, region, and smoking status** relate to charges, and we surface patterns through an interactive Streamlit interface. :contentReference[oaicite:2]{index=2}
 
 ## Dataset
-Source: Kaggle (insurance dataset) :contentReference[oaicite:3]{index=3}
+Source: Kaggle (insurance dataset)
 
 Columns used:
 - `age`
